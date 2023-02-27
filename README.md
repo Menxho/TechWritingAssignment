@@ -1,10 +1,10 @@
 # TechWritingAssignment
 ## Code
 
-include <iostream>
-include <fstream>
-include <iomanip>
-include <string>
+include iostream
+include fstream
+include iomanip
+include string
 using namespace std;
     
     
@@ -36,7 +36,7 @@ int main()
     outFile.close();
 
     return 0;
-}
+   }
 
   ## Wriiten Document
 The objective of this lab is to write a C++ program that reads data from a file, performs a calculation, and outputs the results to another file. The program is designed to help a company to calculate the new salary of each employee after a pay increase. This lab aims to test the student's understanding of file input/output, string manipulation, and basic arithmetic calculations.
