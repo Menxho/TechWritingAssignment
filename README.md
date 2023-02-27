@@ -1,13 +1,14 @@
 # TechWritingAssignment
 # Code
 
-#include <iostream>
-#include <fstream>
-#include <iomanip>
-#include <string>
+# include   <iostream>
+# include   <fstream>
+# include   <iomanip>
+# include   <string>
 using namespace std;
 int main()
 {
+    
     // Declaring Variables
     string fName, lName;
     float cSalary, pI, uSalary;
